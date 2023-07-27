@@ -1,0 +1,5 @@
+Wiem, ze nie mialo byc pliku tekstowego,
+ale pomyslalam, ze bedzie tak lepiej.
+	Steruje sie wezem strzalkami i ma sie na celu 
+zjesc owoc (to czerwone). Gra sie zawiesza czyli konczy kiedy zje samego siebie.
+W tedy jak chce sie jeszcze raz zagrac trzeba zamknac i odpalic gre od nowa.
